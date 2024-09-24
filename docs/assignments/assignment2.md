@@ -21,16 +21,28 @@ layout: doc
 
 **Images**:
 ![Slack: Emoji reactions](figures/Slack-%20Emoji%20reactions.png)  
+*Slack: Emoji reactions*
 ![Tertle: Cofounder Matching](figures/Tertle-%20Cofounder%20Matching.png)  
-![Tertle: Schedule time](figures/Tertle-%20Schedule%20time.png)  
-![Clubhouse: Join room and share thoughts](figures/Clubhouse-%20Join%20room%20and%20share%20thoughts.png)  
+*Tertle: Cofounder Matching*
+![Tertle: Schedule time](figures/Tertle-%20Schedule%20time.png)
+*Tertle: Schedule time*
+![Clubhouse: Join room and share thoughts](figures/Clubhouse-%20Join%20room%20and%20share%20thoughts.png)
+*Clubhouse: Join room and share thoughts*
 ![YCombinator: Cofounder Matching](figures/YCombinator-%20Cofounder%20Matching.png)  
+*YCombinator: Cofounder Matching*
 ![Reddit: Dive Into Q&A](figures/Reddit-%20Dive%20Into%20Q&A.png)  
+*Reddit: Dive Into Q&A*
 ![Reddit: Dive Into News](figures/Reddit-%20Dive%20Into%20News.png)  
+*Reddit: Dive Into News*
 ![Jetson: Join Startup Communities](figures/Jetson-%20Join%20Startup%20Communities.png)  
+*Jetson: Join Startup Communities*
 ![Meetup: Personal Information Feed](figures/Meetup-%20Personal%20Information%20Feed.png)  
+*Meetup: Personal Information Feed*
 ![Meetup: Plan Events](figures/Meetup-%20Plan%20Events.png)  
+*Meetup: Plan Events*
 ![Meetup: Discover nearby events](figures/Meetup-%20Discover%20nearby%20events.png)
+*Meetup: Discover nearby events*
+
 
 # Brainstorming Feature Ideas
 
