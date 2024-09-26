@@ -74,11 +74,25 @@ layout: doc
 - **Event RSVPs**: Users RSVP to events and receive updates, similar to Instagram’s Stories and Events features.
 
 # VSD Analysis
+### Cross-Regional Collaboration (Pervasiveness):
+**Observation:** While Banana Foundry emphasizes local connections, founders could also benefit from networking with people in other regions who share similar interests or industry focus. Cross-regional collaboration can bring new perspectives, access to different markets, and a wider range of expertise.  
+**Design Response:** Start by targeting universities, and gradually expand to involve more institutions, allowing the platform to grow its network of entrepreneurial talent across different regions.
 
-- **Stakeholders**: 
-- **Time**: 
-- **Pervasiveness**:
-- **Values**:
+### Sustained Friendships (Time):
+**Observation:** As users interact through events, discussions, and projects, friendships may develop that go beyond professional networking, leading to long-term collaboration and personal support.  
+**Design Response:** Design the platform to encourage users to share daily updates, which will motivate others to follow their journey and interact consistently. This approach can help foster lasting relationships and build a strong, sustainable community.
+
+### Stakeholders Leaving the App (Time):
+**Observation:** As users grow in their entrepreneurial journey or face challenges, they may eventually leave the app. Successful entrepreneurs might move on to focus on other ventures, while those facing setbacks could feel discouraged.  
+**Design Response:** Encourage those who leave to stay involved as mentors or occasional contributors, giving back to the community by sharing their knowledge and experiences with newer users.
+
+### Widespread Use (Pervasiveness):
+**Observation:** As the app scales from local use to thousands or even millions of users, interactions might shift from personal, local connections to more impersonal or anonymous experiences, which could dilute the sense of community.  
+**Design Response:** To maintain the personal feel as the app grows, introduce region-specific subgroups or interest-based clusters. This will help users continue to build meaningful, close-knit connections within their local or shared-interest communities.
+
+### Desired Value - Feeling Supported (Values):
+**Observation:** One of the core values Banana Foundry should emphasize is the feeling of support. Users should feel like they're part of a community that cares about their progress, whether through feedback, collaboration, or mentorship.  
+**Design Response:** To reinforce this value, we plan to introduce features like "Gamified Milestones" that reward users with badges or achievements, making them feel recognized and supported. Additionally, we will encourage users to take on mentorship roles and participate in programs that allow them to make positive contributions to the community.
   
 
 # Storyboarding
