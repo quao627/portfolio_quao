@@ -141,11 +141,9 @@ Banana Foundry is all about turning great ideas into impactful ventures by conne
 - **Private Chat → Find a Place**: Find a Place is accessible only in private chats to propose in-person meetings.
 
 # Subset Examples
-
 ## Profile-Only Subset
 ### 1. Basic Profile Management: `{Profile}`
 - Users can register and manage their profiles.
-
 ## Content and Sharing Subsets
 ### 2. Content Creation and Sharing: `{Profile, Post}`
 - Users can create posts, interact with content, and comment.
@@ -165,12 +163,10 @@ Banana Foundry is all about turning great ideas into impactful ventures by conne
 
 
 # Wireframes
-
 - [Figma Wireframes](https://www.figma.com/design/g15D0HvAdx3kyq1VYPgQpN/6.1040-Assignment3?node-id=7-50&t=zkMeO4bmgWEBmRq2-1)
 
 
 # Design Tradeoffs
-
 ## 1. Policy on Private Chat
 - **Options**: Allow unrestricted private chats, require mutual following, or allow one initial message without mutual following.
 - **Chosen Option**: Require mutual following but allow one initial message if the other party hasn’t followed back.
