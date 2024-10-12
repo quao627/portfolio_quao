@@ -8,6 +8,10 @@ layout: doc
 
 You can view the github repo on [GitHub](https://github.com/quao627/backend-starter-quao).
 
+# Vercel Test App
+
+You can view the test app on [Vercel](https://backend-starter-quao.vercel.app/).
+
 # Design Reflection
 
 Reflecting on the backend service implementation revealed several flaws in my initial design. 
